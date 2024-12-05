@@ -10,13 +10,7 @@ The project aims to provide users with an intuitive and customizable Gantt Chart
 
 ## Installation
 
-Download the data.csv file included in the project.
-
-Import the file into Power BI and create a table using the data.
-
-Apply the provided code to generate the Gantt Chart visualization.
-
-Customize the visualization according to your requirements.
+Once you open the .pbix file, you can view and interact with your Gantt Chart data within Power BI.
 
 ## Usage
 

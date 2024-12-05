@@ -1,4 +1,4 @@
-# Compact Gantt Chart for Power BI
+# Compact Power BI Gantt Chart 
 
 ## Description
 

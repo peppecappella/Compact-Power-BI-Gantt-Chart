@@ -2,19 +2,11 @@
 
 ## Description
 
-This project provides a customized Gantt Chart visualization for Power BI. Based on David Bacci's version available on GitHub, this solution allows users to visually represent project timelines and dependencies tailored to their specific needs.
-
-## Purpose
-
-The project aims to provide users with an intuitive and customizable Gantt Chart visualization in Power BI. This visualization is particularly useful for project management, activity planning, and progress tracking.
-
-## Installation
-
-Once you open the .pbix file, you can view and interact with your Gantt Chart data within Power BI.
+This project provides a customized Gantt Chart visualization for Power BI. It is a variation of the original version by David Bacci, available on GitHub, with a key difference in how subactivities are displayed. In this version, all subactivities of the same task are represented on the same row. This approach minimizes vertical space usage and keeps related data grouped, making it easier for users to quickly compare overlapping subactivities within a single timeline. This is intended as an alternative way of visualizing Gantt data, offering a different perspective while building upon the excellent foundation of the original work.
 
 ## Usage
 
-Follow the steps above to set up the project. Once installed, you can view your Gantt Chart data within Power BI.
+Once you open the .pbix file, you can view and interact with your Gantt Chart data within Power BI.
 
 ## Example visualization:
 
